@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.quiz{
+    width: 800px;
+    height: 150px;
+    border: 1px solid orange;
+    background-color: antiquewhite;
+    margin: 0 auto;
+}
+
+.quiz h2{
+    margin-left: 20px;
+}
+
+.quiz input{
+    /* margin-left: 25px; */
+}
+
+.quiz label{
+    margin-left: 20px;
+}
+
+a{
+    /* margin: 10px; */
+    color: aliceblue;
+    margin-left: 1078px;
+    text-decoration: none;
+    padding: 5px 20px;
+    background-color: brown;
+}
+
+h1{
+    text-align: center;
+}
